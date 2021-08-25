@@ -1,0 +1,4 @@
+[mysqld]
+server-id=2
+log-bin=/var/lib/mysql/binlog/mysql-slave-bin
+relay_log=/var/lib/mysql/relaylog/edu-mysql-relay-bin

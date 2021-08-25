@@ -1,0 +1,184 @@
+2021-08-22 20:42:14.956 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 20:42:14.991 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 20:42:15.005 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 20:42:15.076 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.3(172.17.0.3):11111]
+2021-08-22 20:42:16.854 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 20:48:37.792 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 20:48:37.946 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.3(172.17.0.3):11111]
+2021-08-22 20:48:37.956 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 20:58:04.155 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 20:58:04.185 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 20:58:04.200 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 20:58:04.261 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 20:58:05.942 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:19:44.205 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:19:44.672 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:19:44.686 [Thread-6] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:19:47.110 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:19:47.164 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:19:47.289 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:19:47.466 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:19:47.532 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:20:29.135 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:27:13.550 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:27:13.560 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 21:27:13.816 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:27:13.872 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:27:16.357 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:27:16.402 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:27:16.510 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:27:16.656 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:27:16.758 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:27:58.228 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:40:07.435 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:40:07.435 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 21:40:07.750 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:40:07.779 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:40:09.924 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:40:09.970 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:40:10.114 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:40:10.271 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:40:10.383 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:40:11.537 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:41:23.027 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:41:23.028 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 21:41:23.146 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:41:23.207 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:41:25.557 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:41:25.590 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:41:25.705 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:41:25.842 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:41:25.958 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:41:27.087 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:46:29.735 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:46:29.748 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 21:46:30.877 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:46:32.828 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:46:36.637 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:46:36.676 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:46:36.785 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:46:36.918 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:46:37.021 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:46:37.822 [main] ERROR c.a.o.c.common.zookeeper.running.ServerRunningMonitor - start failed
+com.google.common.util.concurrent.UncheckedExecutionException: com.alibaba.otter.canal.common.CanalException: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'instance' defined in class path resource [spring/file-instance.xml]: Cannot resolve reference to bean 'eventParser' while setting bean property 'eventParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'eventParser' defined in class path resource [spring/file-instance.xml]: Cannot create inner bean 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' of type [com.alibaba.otter.canal.parse.support.AuthenticationInfo] while setting bean property 'masterInfo'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' defined in class path resource [spring/file-instance.xml]: Initialization of bean failed; nested exception is java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2218) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4147) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4151) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5140) ~[guava-22.0.jar:na]
+	at com.google.common.collect.MigrateMap$MigrateConcurrentMap.get(MigrateMap.java:68) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.server.embedded.CanalServerWithEmbedded.start(CanalServerWithEmbedded.java:128) ~[canal.server-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalController$1.processActiveEnter(CanalController.java:152) ~[canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.common.zookeeper.running.ServerRunningMonitor.processActiveEnter(ServerRunningMonitor.java:242) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.common.zookeeper.running.ServerRunningMonitor.start(ServerRunningMonitor.java:99) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalController.start(CanalController.java:497) [canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalStarter.start(CanalStarter.java:89) [canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalLauncher.main(CanalLauncher.java:117) [canal.deployer-1.1.5.jar:na]
+Caused by: com.alibaba.otter.canal.common.CanalException: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'instance' defined in class path resource [spring/file-instance.xml]: Cannot resolve reference to bean 'eventParser' while setting bean property 'eventParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'eventParser' defined in class path resource [spring/file-instance.xml]: Cannot create inner bean 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' of type [com.alibaba.otter.canal.parse.support.AuthenticationInfo] while setting bean property 'masterInfo'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' defined in class path resource [spring/file-instance.xml]: Initialization of bean failed; nested exception is java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'instance' defined in class path resource [spring/file-instance.xml]: Cannot resolve reference to bean 'eventParser' while setting bean property 'eventParser'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'eventParser' defined in class path resource [spring/file-instance.xml]: Cannot create inner bean 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' of type [com.alibaba.otter.canal.parse.support.AuthenticationInfo] while setting bean property 'masterInfo'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' defined in class path resource [spring/file-instance.xml]: Initialization of bean failed; nested exception is java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:378) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:110) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1605) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:578) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:760) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:869) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:144) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.context.support.ClassPathXmlApplicationContext.<init>(ClassPathXmlApplicationContext.java:85) ~[spring-context-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at com.alibaba.otter.canal.instance.spring.SpringCanalInstanceGenerator.getBeanFactory(SpringCanalInstanceGenerator.java:47) ~[canal.instance.spring-1.1.5.jar:na]
+	at com.alibaba.otter.canal.instance.spring.SpringCanalInstanceGenerator.generate(SpringCanalInstanceGenerator.java:30) ~[canal.instance.spring-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalController.lambda$initGlobalConfig$2(CanalController.java:378) [canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.server.embedded.CanalServerWithEmbedded.lambda$start$0(CanalServerWithEmbedded.java:78) ~[canal.server-1.1.5.jar:na]
+	at com.google.common.collect.MigrateMap$1.load(MigrateMap.java:23) ~[canal.common-1.1.5.jar:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3708) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2416) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2299) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2212) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:4147) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:4151) ~[guava-22.0.jar:na]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:5140) ~[guava-22.0.jar:na]
+	at com.google.common.collect.MigrateMap$MigrateConcurrentMap.get(MigrateMap.java:68) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.server.embedded.CanalServerWithEmbedded.start(CanalServerWithEmbedded.java:128) ~[canal.server-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalController$1.processActiveEnter(CanalController.java:152) ~[canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.common.zookeeper.running.ServerRunningMonitor.processActiveEnter(ServerRunningMonitor.java:242) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.common.zookeeper.running.ServerRunningMonitor.start(ServerRunningMonitor.java:99) ~[canal.common-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalController.start(CanalController.java:497) [canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalStarter.start(CanalStarter.java:89) [canal.deployer-1.1.5.jar:na]
+	at com.alibaba.otter.canal.deployer.CanalLauncher.main(CanalLauncher.java:117) [canal.deployer-1.1.5.jar:na]
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'eventParser' defined in class path resource [spring/file-instance.xml]: Cannot create inner bean 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' of type [com.alibaba.otter.canal.parse.support.AuthenticationInfo] while setting bean property 'masterInfo'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' defined in class path resource [spring/file-instance.xml]: Initialization of bean failed; nested exception is java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:327) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveValueIfNecessary(BeanDefinitionValueResolver.java:124) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1605) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:578) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:317) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:228) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:315) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveReference(BeanDefinitionValueResolver.java:367) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	... 34 common frames omitted
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'com.alibaba.otter.canal.parse.support.AuthenticationInfo#fd07cbb' defined in class path resource [spring/file-instance.xml]: Initialization of bean failed; nested exception is java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:587) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:501) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.BeanDefinitionValueResolver.resolveInnerBean(BeanDefinitionValueResolver.java:312) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	... 44 common frames omitted
+Caused by: java.lang.RuntimeException: address[jdbc:mysql://123.57.5.68:3306/space] is illegal, eg.127.0.0.1:3306
+	at com.alibaba.otter.canal.instance.spring.support.SocketAddressEditor.setAsText(SocketAddressEditor.java:20) ~[canal.instance.spring-1.1.5.jar:na]
+	at org.springframework.beans.TypeConverterDelegate.doConvertTextValue(TypeConverterDelegate.java:466) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.TypeConverterDelegate.doConvertValue(TypeConverterDelegate.java:439) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.TypeConverterDelegate.convertIfNecessary(TypeConverterDelegate.java:192) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.AbstractNestablePropertyAccessor.convertIfNecessary(AbstractNestablePropertyAccessor.java:585) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.AbstractNestablePropertyAccessor.convertForProperty(AbstractNestablePropertyAccessor.java:604) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.BeanWrapperImpl.convertForProperty(BeanWrapperImpl.java:219) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.convertForProperty(AbstractAutowireCapableBeanFactory.java:1654) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyPropertyValues(AbstractAutowireCapableBeanFactory.java:1610) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1357) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:578) ~[spring-beans-5.0.5.RELEASE.jar:5.0.5.RELEASE]
+	... 46 common frames omitted
+2021-08-22 21:46:37.829 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 21:54:27.634 [Thread-9] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 21:54:27.635 [Thread-10] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 21:54:27.672 [Thread-9] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:54:27.684 [Thread-9] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 21:54:30.157 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 21:54:30.199 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 21:54:30.305 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 21:54:30.472 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 21:54:30.600 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 21:54:31.654 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 22:03:51.522 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 22:03:51.523 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 22:03:52.542 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:03:52.681 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 22:03:55.357 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 22:03:55.395 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 22:03:55.493 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 22:03:55.624 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 22:03:55.741 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:03:56.792 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 22:11:11.814 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 22:11:11.833 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 22:11:14.105 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:11:14.144 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 22:11:16.740 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 22:11:16.782 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 22:11:16.897 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 22:11:17.025 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 22:11:17.099 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:11:18.360 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
+2021-08-22 22:16:51.574 [Thread-12] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ## Stop RocketMQ producer##
+2021-08-22 22:16:51.575 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## stop the canal server
+2021-08-22 22:16:52.232 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalController - ## stop the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:16:52.245 [Thread-11] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## canal server is down.
+2021-08-22 22:16:54.059 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## set default uncaught exception handler
+2021-08-22 22:16:54.098 [main] INFO  com.alibaba.otter.canal.deployer.CanalLauncher - ## load canal configurations
+2021-08-22 22:16:54.262 [main] INFO  c.a.o.c.c.rocketmq.producer.CanalRocketMQProducer - ##Start RocketMQ producer##
+2021-08-22 22:16:54.392 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## start the canal server.
+2021-08-22 22:16:54.486 [main] INFO  com.alibaba.otter.canal.deployer.CanalController - ## start the canal server[172.17.0.1(172.17.0.1):11111]
+2021-08-22 22:16:55.464 [main] INFO  com.alibaba.otter.canal.deployer.CanalStarter - ## the canal server is running now ......
